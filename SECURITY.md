@@ -41,7 +41,7 @@ This security policy covers:
 - Content that may violate platform policies
 - Copyright and intellectual property concerns
 
-## Best Practices for Contributors
+## Proven Patterns for Contributors
 
 When creating or reviewing skill files:
 

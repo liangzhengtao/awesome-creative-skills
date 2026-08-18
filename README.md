@@ -17,9 +17,9 @@
 
 ## ✨ What This Is
 
-A curated collection of AI creative design skills that transform ordinary photos into stunning artistic creations. Each skill provides detailed instructions, prompt templates, style references, and best practices for AI assistants to produce professional-quality creative work.
+10 AI skills that turn photos into art — movie posters, album covers, logos, film emulation, and more. Each skill gives your AI assistant exact prompts, color palettes, and step-by-step instructions.
 
-Like [gathered-scenes-zine](https://github.com/nicholasgriffintn/gathered-scenes-zine) and [scene-distillation-zine](https://github.com/nicholasgriffintn/scene-distillation-zine), these skills focus on **photo-to-art transformation** — but across a much broader creative spectrum.
+Inspired by [gathered-scenes-zine](https://github.com/nicholasgriffintn/gathered-scenes-zine) and [scene-distillation-zine](https://github.com/nicholasgriffintn/scene-distillation-zine), but covering a wider creative range.
 
 ## 🖼️ Before & After
 
