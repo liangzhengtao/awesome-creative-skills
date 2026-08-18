@@ -7,11 +7,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skills](https://img.shields.io/badge/skills-10-orange.svg)](#skills)
 
-> **将照片变成艺术。10个创意AI技能，为设计师、摄影师和创作者打造。**
-
-[中文版本](#中文版本)
+<p align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a>
+</p>
 
 ---
+
+<a name="english"></a>
 
 ## ✨ What This Is
 
@@ -197,7 +199,7 @@ Want to add a new creative skill? Open an [issue](https://github.com/liangzhengt
 
 ---
 
----
+<a name="中文"></a>
 
 # 中文版本
 
