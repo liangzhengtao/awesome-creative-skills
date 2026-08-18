@@ -235,3 +235,51 @@ as if Paris exists in a perpetual golden autumn afternoon.
 - **Too much saturation** — Cinema is generally less saturated than consumer photography
 - **Wrong reference for the subject** — A horror grade on a wedding doesn't work
 - **Missing the letterbox** — Cinematic = 2.39:1 widescreen; add letterbox bars
+
+---
+
+## 中文版本
+
+### 使用场景
+
+适用于为照片添加好莱坞级电影色彩调色效果：
+
+- 人像摄影追求胶片/电影质感
+- 婚礼摄影营造电影氛围
+- 旅行摄影变身为电影剧照
+- 时尚和编辑类摄影
+- 社交媒体内容的电影美学
+- 需要统一色调的系列拍摄项目
+
+### 核心步骤
+
+1. **分析源图** — 识别情绪、主体、现有光线和色温、叙事潜力
+2. **选择参考电影** — 根据目标情绪匹配电影色彩风格（详见 Film Color Palettes 部分）
+3. **构建调色 Prompt** — 组合参考电影/剧集、暗部色调、亮部色调、中间调偏移、对比度、饱和度、特殊效果、画幅比
+4. **输出软件指令** — 针对 DaVinci Resolve 或 Photoshop 给出具体操作步骤
+
+### 模板说明
+
+| 模板 | 代表影片 | 风格特征 |
+|------|---------|---------|
+| **Teal & Orange** | 变形金刚系列 | 暗部偏蓝绿（~190°），亮部偏暖橙（~30°），好莱坞标配 |
+| **Bleach Bypass** | 拯救大兵瑞恩、七宗罪 | 跳过漂白工艺，去饱和+高对比，金属质感 |
+| **Day for Night** | 疯狂的迈克斯夜间段 | 降曝 1-2 档，大幅偏蓝，模拟月光效果 |
+| **Blade Runner 2049** | 银翼杀手 2049 | 琥珀沙漠 vs 冷蓝阴影，霓虹粉/电光青点缀 |
+| **Mad Max: Fury Road** | 疯狂的迈克斯 | 极致 Teal & Orange，超高对比与饱和度 |
+| **The Matrix** | 黑客帝国 | 全画面绿色色调（#00FF41），CRT 显示器质感 |
+| **Amélie** | 天使爱美丽 | 暗部偏绿黄+暖棕，亮部金琥珀，压蓝提红绿 |
+
+每个模板附带 DaVinci Resolve 节点结构和 Photoshop 操作步骤。
+
+### 常见陷阱
+
+- **调色过度** — 最好的调色是观众感觉不到的；如果注意到了，说明过头了
+- **破坏肤色** — 始终保护肤色，这是观众最先注意到的
+- **暗部压到纯黑** — 保留暗部细节，胶片总会有细节
+- **亮部过曝** — 要柔和过渡（rolloff），不要硬切（clipping）
+- **调色不一致** — 同一项目内所有照片的调色风格应统一
+- **忽略白平衡** — 调色应建立在正确白平衡之上，而非替代白平衡
+- **饱和度过高** — 电影画面通常比消费级摄影饱和度更低
+- **主题与风格错配** — 婚礼照片不适合恐怖片调色
+- **忘记遮幅** — 电影感 = 2.39:1 宽银幕；应添加上下黑边（letterbox）

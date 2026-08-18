@@ -182,3 +182,46 @@ composition with strong diagonal energy, aspect ratio 2:3 portrait
 - **Photographic perspective** — Flatten the scene into graphic planes
 - **Missing atmosphere** — Every poster needs a mood: nostalgic, adventurous, luxurious, serene
 - **Cluttered composition** — One clear focal point; supporting elements only
+
+---
+
+## 中文版本
+
+### 使用场景
+
+适用于将风景/地标/旅行照片转化为黄金时代（1920s-1960s）风格的复古旅行海报：
+
+- 将度假照片制作成家居装饰版画
+- 婚礼/活动场地插画
+- Airbnb 或酒店营销物料
+- 个人旅行记忆艺术品
+- 餐厅/咖啡厅墙面装饰
+- 社交媒体旅行内容
+
+### 核心步骤
+
+1. **分析源照片** — 识别主要地标/景观、主导色彩和自然光质量、最具辨识度的剪影或形状
+2. **选择年代和风格** — 根据目的地类型选择：Art Deco（1920-30s，适合城市/奢华/建筑）、WPA（1935-43，适合国家公园/美国地标）、Mid-Century（1950-60s，适合海滩/热带）、Orient Express（1920-30s，适合欧洲城市/火车旅行）
+3. **构建 Prompt** — 组合年代、技法、几何构图、简化形态、配色、地标、氛围、目的地名称、竖版 2:3
+4. **添加年代细节** — Art Deco：金色箔、光芒图案、几何边框；WPA：木刻纹理、粗轮廓线；Mid-Century：粉彩、原子时代图案；Orient Express：宝石色调、华丽边框
+
+### 模板说明
+
+| 模板 | 年代 | 技法关键词 | 最佳用途 |
+|------|------|-----------|---------|
+| **National Parks (WPA)** | 1930s | `woodcut block print` 木刻 | 国家公园、自然景观 |
+| **Orient Express** | 1920s | `Art Deco illustration` | 欧洲城市、火车旅行 |
+| **TWA Airlines** | 1950s | `airbrushed illustration` | 热带度假、海滩 |
+
+每个模板附带地区配色表（西南沙漠/太平洋西北/山地西部/热带/欧洲阿尔卑斯）和对应字体推荐。
+
+### 常见陷阱
+
+- **细节过多** — 旅行海报是简化现实的；抵制照片写实主义
+- **出现现代元素** — 不要有 1960 年后的汽车、现代标识或智能手机
+- **颜色无限制** — 限制在 3-5 色；正是这种约束造就了风格
+- **忽略文字** — 排版占设计的 40%；必须妥善整合
+- **比例错误** — 旅行海报是竖版（2:3 或 1:2），不是横版
+- **照片透视** — 应将场景扁平化为图形平面
+- **缺少氛围** — 每张海报都需要情绪：怀旧、冒险、奢华、宁静
+- **构图杂乱** — 一个清晰焦点；其他元素仅作辅助

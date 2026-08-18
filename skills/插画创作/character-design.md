@@ -304,3 +304,52 @@ If any answer is "no," strengthen the distinguishing features.
 - **Cultural insensitivity** — Research cultural elements before incorporating them
 - **No color limit** — 3-5 main colors per character; more creates visual noise
 - **Ignoring the platform** — A VTuber needs different specs than a game sprite
+
+---
+
+## 中文版本
+
+### 使用场景
+
+适用于跨多种美术风格的角色、头像和吉祥物设计：
+
+- VTuber 虚拟形象及可绑骨立绘
+- 游戏角色概念设计和 Sprite Sheet
+- 品牌吉祥物与插画角色
+- 社交媒体头像和图标
+- 漫画/漫画角色设定表
+- NFT / 数字藏品角色系列
+- Discord、游戏、论坛个人头像
+- 绘本角色设计
+
+### 核心步骤
+
+1. **角色 Brief** — 确定姓名、年龄、3-5 个性格形容词、背景故事、目标受众与平台、美术风格偏好、配色偏好
+2. **选择美术风格** — 根据目标平台从以下风格中选择：Anime / Cartoon / Pixel Art / Realistic / Chibi / Brand Mascot / VTuber
+3. **构建 Design Prompt** — 将风格、性别/年龄/类型、性格、外貌描述、服装、配色、姿势、背景、质量要求组合为结构化 prompt
+4. **生成角色设定表** — 包含主视图、三视图、表情网格、标志性姿势、配色方案
+
+### 模板说明
+
+| 模板 | 适用平台 | 关键特征 |
+|------|---------|---------|
+| **Anime / Manga** | 日系游戏、VTuber、同人 | Cel-shading，大眼睛，6 种子风格（少年/少女/青年/吉卜力/异世界/赛博朋克） |
+| **Cartoon / Western** | 欧美动画、品牌吉祥物 | Shape Language 系统：○圆润=友好 △棱角=活力 □方形=稳重 |
+| **Pixel Art** | 独立游戏、复古风 | 16×16 到 128×128 分辨率，有限调色板，无抗锯齿 |
+| **Realistic** | 影视概念、写实游戏 | 三点布光、材质渲染、数字化绘画质感 |
+| **Chibi** | 贴纸、表情包、周边 | 1.5-2.5 头身比，40%+ 面积为眼睛，简化但可辨认 |
+| **Brand Mascot** | 品牌推广、周边、活动 | 融入品牌元素，需在人偶装/图标/贴纸等多尺寸可用 |
+| **VTuber** | 直播、视频内容 | Live2D 分层友好，发型/面部/上身/配饰独立图层 |
+
+### 常见陷阱
+
+- **同脸综合征** — 角色之间应通过脸型（而非仅发型和发色）区分
+- **过度设计** — 细节堆砌会模糊设计焦点；简洁才易记忆
+- **忽略剪影** — 填充为纯黑后应仍可辨认，否则特征不够鲜明
+- **刻板联想** — 反派=黑/斗篷、正义=白/铠甲已过度使用
+- **头身比不一致** — 同一风格系列内头身比应保持统一
+- **姿势单一** — 角色设定表应通过姿势传达性格
+- **忽略功能性** — 游戏角色需可动画化，吉祥物需可复制
+- **文化不敏感** — 融入文化元素前应做好调研
+- **无配色限制** — 每个角色 3-5 个主色，过多会造成视觉噪音
+- **忽略平台差异** — VTuber 和游戏 Sprite 的技术规格差异很大

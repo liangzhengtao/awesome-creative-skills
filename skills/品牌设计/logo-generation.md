@@ -218,3 +218,52 @@ as profile picture, watermark, and merchandise print.
 - **Ignoring competitors** — The logo must stand out in its specific market
 - **Missing the brief** — A beautiful logo that doesn't fit the brand is a failed logo
 - **Not testing applications** — Mock up on business cards, websites, signage, merchandise
+
+---
+
+## 中文版本
+
+### 使用场景
+
+适用于从品牌描述、关键词和视觉偏好出发，生成专业 Logo 的各类场景：
+
+- 创业公司需要初始品牌标识
+- 小型企业刷新视觉形象
+- 个人项目和副业品牌
+- 产品命名与视觉头脑风暴
+- 聘请专业设计师前的设计探索
+- 活动/会议品牌
+- App Icon 和 Favicon 生成
+
+### 核心步骤
+
+1. **收集品牌信息** — 品牌名称、口号、行业、目标受众、3-5 个性格形容词、竞品、风格偏好
+2. **选择 Logo 类型** — 根据需求选择：Wordmark（纯文字）、Lettermark（首字母缩写）、Pictorial（具象图标）、Abstract（抽象图形）、Mascot（吉祥物）、Combination（图文组合）、Emblem（徽章）
+3. **构建 Prompt** — 组合品牌名、行业、风格、图形描述、字体风格、配色、渲染方式和应用场景
+4. **评审与迭代** — 使用"五项测试"验证：眯眼测试、餐巾纸测试、单色测试、尺寸测试、时间测试
+
+### 模板说明
+
+提供五大行业模板：
+
+| 模板 | 风格要点 | 配色参考 |
+|------|---------|---------|
+| **Tech Startup** | 几何无衬线体，简洁现代 | 蓝/紫/青为主，深色辅色 + 明亮强调色 |
+| **Restaurant / F&B** | 手绘/Slab 衬线，温暖感 | 暖红/橙/棕（意式）或 绿/大地色（健康） |
+| **Fashion Brand** | 细衬线/窄体无衬线，精致 | 单色+金色（奢侈）或 红+黑（潮牌） |
+| **Creative Agency** | 自定义字体，实验性强 | 鲜艳主色 或 深色+亮色强调 |
+| **Personal Brand** | 签名体/字母组合，辨识度高 | 与个人视觉风格匹配 |
+
+每个模板内嵌色彩心理对照表和字体搭配指南。
+
+### 常见陷阱
+
+- **概念过多** — 一个 Logo 应清晰表达一个核心概念，而非五个模糊概念
+- **剪贴画感** — 避免使用通用符号（地球、握手、灯泡），会显得廉价
+- **过度依赖趋势** — 避免渐变光泽、立体效果等易过时的风格
+- **小尺寸细节丢失** — 细节在 16×16px Favicon 和 App Icon 上会消失
+- **依赖颜色** — Logo 必须在单色下也能识别，颜色是增强而非结构
+- **字体过多** — 最多一个字体家族，两种字重通常足够
+- **字面插画** — 餐厅 Logo 不需要一个盘子加叉子的写实图
+- **忽略竞品** — Logo 必须在特定市场中脱颖而出
+- **未做应用测试** — 必须在名片、网站、招牌、周边上打样验证

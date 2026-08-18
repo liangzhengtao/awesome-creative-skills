@@ -271,3 +271,54 @@ HOOK LAYOUT (Most versatile):
 - **Not testing variations** — Always create 2-3 versions for A/B testing
 - **Forgetting accessibility** — Alt text, sufficient contrast, readable fonts
 - **Platform-naive design** — What works on LinkedIn won't work on TikTok
+
+---
+
+## 中文版本
+
+### 使用场景
+
+适用于跨所有主流社交媒体平台的平台优化内容创作：
+
+- Instagram 帖子、Stories、Reels 封面、轮播图
+- YouTube 缩略图、频道封面、社区帖子
+- Twitter/X 头图、帖子图片、长图推文
+- LinkedIn Banner、帖子图片、文章封面
+- TikTok 封面和个人页优化
+- Pinterest Pin 和看板封面
+- Facebook 封面、帖子、活动图片
+- Newsletter 头图和邮件图文
+
+### 核心步骤
+
+1. **确认平台与格式** — 确定精确的平台、内容类型和尺寸（参考尺寸速查表）
+2. **制定内容策略** — 明确目标（曝光/互动/点击/转化）、内容类型（教育/娱乐/励志/推广）、核心 Hook（首行/首图）
+3. **构建 Design Prompt** — 组合平台、格式、内容类型、视觉风格、配色、排版、构图、文案、品牌元素、特殊效果、尺寸
+4. **生成变体** — 创建 2-3 个版本用于 A/B 测试
+
+### 模板说明
+
+| 平台/格式 | 尺寸 | 核心要点 |
+|-----------|------|---------|
+| **Instagram Post (正方形)** | 1080×1080 | Quote Card / 轮播图（5-10 页）/ Story（1080×1920） |
+| **YouTube Thumbnail** | 1280×720 | 4 种风格（面部反应/前后对比/数字列表/纯文字），文字最多 4 个词 |
+| **YouTube Banner** | 2560×1440 | 安全区 1546×423px（中心），需适配 TV 展示 |
+| **Twitter/X Header** | 1500×500 | 左下角会被头像遮挡，关键内容居中偏右 |
+| **LinkedIn Banner** | 1584×396 | 专业感，头像遮挡左下，内容居中偏右 |
+| **LinkedIn Post** | 1200×627 | 站在文字密集 Feed 中脱颖而出 |
+| **Pinterest Pin** | 1000×1500 | 2:3 竖版，暖色调表现最佳，必须有文字叠加 |
+| **TikTok Cover** | 1080×1920 | 底部 250px 被 UI 覆盖，Hook 文案最多 6 词 |
+
+### 常见陷阱
+
+- **文字太小** — 必须在手机缩略图尺寸下可读
+- **文字过多** — 社交媒体图片最多 5-10 个词
+- **忽略安全区** — 头像、UI 元素和字幕会覆盖图片部分内容
+- **尺寸错误** — 每个平台有特定尺寸，一个尺寸不能通用
+- **无品牌标识** — 每张图至少应有 Logo 水印或品牌色
+- **忽略算法偏好** — 高对比度、人脸、粗体文字在算法上表现更好
+- **桌面优先思维** — 80%+ 的社媒内容在移动端消费
+- **只做静态图** — 轮播和互动内容表现优于单张图片
+- **不做 A/B 测试** — 始终创建 2-3 个版本进行测试
+- **忽视无障碍** — Alt 文本、足够对比度、可读字体
+- **平台风格不区分** — LinkedIn 上有效的设计在 TikTok 上行不通
